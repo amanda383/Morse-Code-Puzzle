@@ -4,4 +4,4 @@ The LED buttons will be used to answer the given questions and to illustrate if 
 
 
 
-Affilitated with University of Waterloo
+Affiliated with University of Waterloo
